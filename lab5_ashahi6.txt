@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: ashahi6
+    Linux system name: mtrx-node03pd.dcm.senecacollege.ca
+    Python executable: /usr/bin/python3
+    Python version: 368
+    OS Platform: linux
+    Working Directory: /home/ashahi6/ops445/lab5/lab-5-111106225-myseneca
+    Start at: Thu Jul 11 18:24:03 2024
+=================================================================
