@@ -1,0 +1,28 @@
+test_0 (__main__.lab5a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./lab5a.py ... ok
+test_a (__main__.lab5a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for errors running: ./lab5a.py ... FAIL
+
+======================================================================
+FAIL: test_a (__main__.lab5a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for errors running: ./lab5a.py
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "./CheckLab5.py", line 46, in test_a
+    self.assertEqual(return_code, 0, msg=error_output)
+AssertionError: 1 != 0 : your program exited with a error(HINT: make sure you copied the script exactly!)
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.062s
+
+FAILED (failures=1)
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: ashahi6
+    Linux system name: mtrx-node03pd.dcm.senecacollege.ca
+    Python executable: /usr/bin/python3
+    Python version: 368
+    OS Platform: linux
+    Working Directory: /home/ashahi6/ops445/lab5/lab-5-111106225-myseneca
+    Start at: Thu Jul 11 18:30:03 2024
+=================================================================
